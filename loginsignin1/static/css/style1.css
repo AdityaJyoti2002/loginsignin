@@ -1,0 +1,45 @@
+.contaner{
+    justify-content: center;
+    width: 360px;
+    height: 496px;
+    margin: auto;
+    background-color: aqua;
+    margin-top: 121px;
+
+}
+body{
+    font-family: "Roboto", sans-serif;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+    padding-top: 15px;
+}
+.form1{
+    width: 300px;
+    margin-left: 20px;
+}
+.form1 label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.form1 input{
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+input[type="button"]{
+    margin-top: 20px;
+    border: none;
+    background-color: blue;
+    height: 40px;
+    font-size: 18px;
+    cursor: pointer;
+}
+p{
+    text-align: center;
+    font-size: 15px;
+}
